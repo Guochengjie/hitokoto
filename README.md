@@ -3,7 +3,7 @@
 最后更新时间:2017/10/04 15:57  
 作者:[狂放](https://www.iknet.top)  
 作者博客:[https://www.iknet.top](https://www.iknet.top)  
-作者地址:[https://www.iknet.top/hitokoto.html](https://www.iknet.top/hitokoto.html)  
+作者地址:[https://www.iknet.top/568.html](https://www.iknet.top/568.html)  
 原作者:[小霖](https://xiaolin.in/)  
 原作者博客:[https://xiaolin.in/](https://xiaolin.in/)  
 原作者地址:[https://xiaolin.in/read/hitokoto-api-xiaolin-edition.html](https://xiaolin.in/read/hitokoto-api-xiaolin-edition.html)  
@@ -21,6 +21,6 @@ GitHub项目地址:[https://github.com/kfangf/hitokoto](https://github.com/kfang
 请求参数:Null  
 返回内容:谁看见过风？我和你，都不曾看见过。  
 # 开发文档  
-见作者博客:[https://www.iknet.top/hitokoto.html](https://www.iknet.top/hitokoto.html)  
+见作者博客:[https://www.iknet.top/568.html](https://www.iknet.top/568.html)  
 # 注意事项
 GBK版本没有JSON和XML格式  
