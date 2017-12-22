@@ -15,6 +15,10 @@ GitHub项目地址:https://github.com/kfangf/hitokoto
 码云项目地址:https://gitee.com/kfang/hitokoto
 版权归作者及原作者所有，任何人不得未经授权修改版权，二次开发请遵守开源协议
 版权所有，侵权必究
+----------------------------------------------------------
+2017-12-22
+二次开发：@Guochengjie
+https://guoch.xyz
 */ 
 header('X-Powered-By:KFang API (api.iknet.top)');
 header('access-control-allow-origin:*');
